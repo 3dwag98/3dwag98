@@ -13,21 +13,21 @@ You can click the Preview link to take a look at your changes.
 ```json
 {
   "skills": {
-    "front-end": ["Angular", "CSS", "HTML", "Rect.js"],
-    "back-end": ["Firebase","NodeJS", "MongoDB", "MySQL"],
-    "programming-languages": ["C","C++","Java","JavaScript","Python"],
-    "frameworks": ["Android", "Angular","NextJS"],
+    "front_end": ["Angular", "CSS", "HTML", "Rect.js"],
+    "databases": ["Firebase", "MongoDB", "MSSQL", "MySQL", "PostgreSQL"],
+    "programming_languages": ["C++","Java","JavaScript","Python","TypeScript"],
+    "frameworks": ["Angular","Django","NextJS"],
     "test-automation": {
       "Selenium": ["Cucumber", "Grid", "JUnit", "TestNG"],
       "Angular": ["Protractor"]
     },
-  "tools":["Git","GitHub","Jira","Bash"],
+  "tools":["Git","Docker","Kafka"],
   "learning": ["Deep Learning","Machine Learning", "Neural Network"]
 },
 "contact": {
   "twitter": "@ChintamaniGawde",
-  "e-mail": "gawdechintamani@gmail.com",
-  "git-hub": "https://github.com/3dwag98"
+  "e_mail": "gawdechintamani@gmail.com",
+  "git_hub": "https://github.com/3dwag98"
 },
 "motto": "Get Busy Living OR Get Busy Dying",
 "_comment": ["Tech Ennthusiast!", "Self Learner"]
