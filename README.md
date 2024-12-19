@@ -8,28 +8,32 @@
 You can click the Preview link to take a look at your changes.
 --->
 
-<!--"title": "Sr. Software Engineer",--->
+"title": "Sr. Software Engineer"
 
 ```json
 {
   "skills": {
-    "front_end": ["Angular", "CSS", "HTML", "Rect.js"],
-    "databases": ["Firebase", "MongoDB", "MSSQL", "MySQL", "PostgreSQL"],
-    "programming_languages": ["C++","Java","JavaScript","Python","TypeScript"],
-    "frameworks": ["Angular","Django","NextJS"],
-    "test-automation": {
+    "front_end": ["React.js", "Angular", "Vue.js", "Tailwind CSS", "Bootstrap"],
+    "databases": ["Firebase", "MongoDB", "MySQL", "PostgreSQL", "DynamoDB"],
+    "programming_languages": ["TypeScript", "Python", "Go", "Java", "C++"],
+    "frameworks": ["React.js", "Next.js", "Angular", "Django", "Flask"],
+    "test_automation": {
       "Selenium": ["Cucumber", "Grid", "JUnit", "TestNG"],
-      "Angular": ["Protractor"]
+      "Angular": ["Protractor"],
+      "JavaScript": ["Puppeteer", "Playwright"],
+      "Python": ["PyTest", "Robot Framework"]
     },
-  "tools":["Git","Docker","Kafka"],
-  "learning": ["Deep Learning","Machine Learning", "Neural Network"]
-},
-"contact": {
-  "twitter": "@ChintamaniGawde",
-  "e_mail": "gawdechintamani@gmail.com",
-  "git_hub": "https://github.com/3dwag98"
-},
-"motto": "Get Busy Living OR Get Busy Dying",
-"_comment": ["Tech Ennthusiast!", "Self Learner"]
+    "devops": ["Docker", "Kubernetes", "Terraform", "Jenkins", "GitHub Actions", "Ansible", "OpenShift"],
+    "tools": ["Git", "GitHub", "Kafka", "RabbitMQ"],
+    "learning": ["Deep Learning", "Machine Learning", "Neural Networks", "Generative AI", "MLOps"]
+  },
+  "contact": {
+    "twitter": "@ChintamaniGawde",
+    "email": "gawdechintamani@gmail.com",
+    "github": "https://github.com/3dwag98",
+    "linkedin": "https://linkedin.com/in/chintamani-gawde"
+  },
+  "motto": "Get Busy Living OR Get Busy Dying.",
+  "_comment": ["Tech Enthusiast", "Self Learner","Nerd!🤓"]
 }
 ```
