@@ -10,18 +10,15 @@ You can click the Preview link to take a look at your changes.
 ```json
 {
   "skills": {
-    "front_end": ["React.js", "Angular", "Vue.js", "Tailwind CSS", "Bootstrap"],
-    "databases": ["Firebase", "MongoDB", "MySQL", "PostgreSQL", "DynamoDB"],
-    "programming_languages": ["TypeScript", "Python", "Go", "Java", "C++"],
-    "frameworks": ["React.js", "Next.js", "Angular", "Django", "Flask"],
-    "test_automation": {
-      "Selenium": ["Cucumber", "Grid", "JUnit", "TestNG"],
-      "Angular": ["Protractor"],
-      "JavaScript": ["Puppeteer", "Playwright"],
-      "Python": ["PyTest", "Robot Framework"]
-    },
-    "devops": ["Docker", "Kubernetes", "Terraform", "Jenkins", "GitHub Actions", "Ansible", "OpenShift"],
-    "tools": ["Git", "GitHub", "Kafka", "RabbitMQ"],
+    "front_end": ["React.js", "Angular", "Vue.js", "Next.js", "Tailwind CSS", "Bootstrap"],
+    "back_end": ["Node.js", "Express.js", "Django", "Flask", "Spring Boot", "Go Microservices"],
+    "databases": ["Firebase", "MongoDB", "MySQL", "PostgreSQL", "DynamoDB", "Oracle"],
+    "programming_languages": ["TypeScript", "Python", "Go", "Java"],
+    "architecture": ["Microservices", "Event-Driven Architecture", "REST & GraphQL APIs", "Cloud-Native Design", "Scalable System Design"],
+    "devops": ["Docker", "Kubernetes", "Terraform", "Jenkins", "GitHub Actions", "Ansible", "OpenShift", "Helm"],
+    "cloud": ["AWS", "GCP", "Azure"],
+    "tools": ["Git", "GitHub", "Kafka", "RabbitMQ", "Grafana", "Prometheus"],
+    "leadership": ["Mentoring & Team Guidance", "Code Reviews & Best Practices", "System Design Decisions", "Cross-Functional Collaboration", "Agile/Scrum"],
     "learning": ["Deep Learning", "Machine Learning", "Neural Networks", "Generative AI", "MLOps"]
   },
   "contact": {
@@ -30,8 +27,8 @@ You can click the Preview link to take a look at your changes.
     "github": "https://github.com/3dwag98",
     "linkedin": "https://linkedin.com/in/chintamani-gawde"
   },
-  "motto": "Get Busy Living OR Get Busy Dying.",
-  "_comment": ["Tech Enthusiast", "Self Learner","Nerd!🤓"]
+  "motto": "Building scalable systems, empowering teams, and solving complex problems with impact.",
+  "_comment": ["Tech Enthusiast", "Self Learner", "System Design Advocate", "Nerd! 🤓"]
 }
 ```
 
